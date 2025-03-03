@@ -8,6 +8,7 @@ Not limited to programming but also networking & engineering.
 
 - 🔭 I’m currently working on NodeJs, NextJs, ThreeJs
 - 🌱 I’m currently learning Typescript
+- 💬 I'm experienced in Full-stack development, if you're looking for a colab, email me
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
