@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-**InvokFung/InvokFung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated programmer obsessed with charm and stuning visual effects and user experience.
 
 ![](https://komarev.com/ghpvc/?username=InvokFung&color=FFA500)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NodeJs, NextJs, ThreeJs
 - 🌱 I’m currently learning Typescript
