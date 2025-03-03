@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a dedicated programmer obsessed with charm and stuning visual effects and user experience.
+I am a dedicated developer obsessed with charm and stunning visual effects and user experience.
+
+Not limited to programming but also networking & engineering.
 
 ![](https://komarev.com/ghpvc/?username=InvokFung&color=FFA500)
 
