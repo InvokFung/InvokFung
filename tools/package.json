@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "description": "Builds the profile's banner, cards, toolbox and ridge. See tools/README.md.",
+  "dependencies": {
+    "opentype.js": "1.3.4",
+    "simple-icons": "13.21.0"
+  }
+}

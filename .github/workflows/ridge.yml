@@ -1,0 +1,27 @@
+# Redraws assets/ridge.svg, the last year of contributions as a ridge, once a day.
+name: Redraw the ridge
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ridge
+  cancel-in-progress: false
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node tools/ridge.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit it if it changed
+        run: |
+          git add assets/ridge.svg
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Redraw the ridge"
+          git push
