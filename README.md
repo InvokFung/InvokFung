@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://invokfung.github.io/"><b>invokfung.github.io</b></a> &nbsp;·&nbsp;
-  <a href="https://invokfung.github.io/explore/">The full portfolio</a> &nbsp;·&nbsp;
+  <a href="https://invokfung.github.io/explore/">The original portfolio</a> &nbsp;·&nbsp;
   <a href="https://invokfung.github.io/blog/">StudyLog</a> &nbsp;·&nbsp;
   <a href="mailto:aflung10@gmail.com">aflung10@gmail.com</a>
 </p>
